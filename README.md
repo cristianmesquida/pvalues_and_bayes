@@ -2,7 +2,7 @@
 
 This repository contains the teaching materials for the ***P*-values and Bayes factors** lecture in BRM3.
 
-The lecture slides are available here: https://cristianmesquida.github.io/p-values_and_bayes/
+The lecture slides are available here: [***P*-values and Bayes factors**](https://cristianmesquida.github.io/pvalues_and_bayes/slides.pdf)
 
 ## Repository structure
 
